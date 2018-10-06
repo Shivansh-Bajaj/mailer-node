@@ -1,0 +1,25 @@
+{
+  "name": "mailer-nodejs",
+  "version": "1.0.0",
+  "description": "nodeJS mailer with mailgun support",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesthechamp/mailer-node.git"
+  },
+  "author": "Shivansh Bajaj <bajajshivansh1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesthechamp/mailer-node/issues"
+  },
+  "homepage": "https://github.com/jamesthechamp/mailer-node#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "mustache": "^3.0.0"
+  }
+}
